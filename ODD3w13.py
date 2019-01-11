@@ -1,7 +1,6 @@
-N = int(raw_input())
+n = int(raw_input())
 
-for i in xrange(N):
-    print "HELLO"
-if(N==0):
+for i in xrange(n):
+    print "Hello"
+if(n==0):
 	print("")
-   
